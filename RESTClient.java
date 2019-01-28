@@ -17,7 +17,7 @@ import org.apache.commons.httpclient.methods.multipart.MultipartRequestEntity;
 import org.apache.commons.httpclient.methods.multipart.Part;
 import org.apache.commons.httpclient.methods.multipart.StringPart;
 
-public class Demo {
+public class RESTClient {
 	public static void main(String[] args) throws ParseException {
 		
 		        try{
